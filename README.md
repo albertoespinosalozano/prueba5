@@ -1,5 +1,3 @@
-[![CI](https://github.com/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwt31-grupoiwt32_08/actions/workflows/workflow.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwt31-grupoiwt32_08/actions/workflows/workflow.yml)
-[![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwt31-grupoiwt32_08?branch=main&token=5cb20b2d9434a245d886612c0bacc84c6c3b7481)](https://bettercodehub.com/)
 
 # EMS-lab3 Maintainability
 
