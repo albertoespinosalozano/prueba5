@@ -60,7 +60,7 @@ public class UtilidadesFechaHora {
 		dia = Integer.parseInt(valores[0]);
 		mes = Integer.parseInt(valores[1]);
 		anio = Integer.parseInt(valores[2]);
-		int minuto, hor;
+		int minuto, hore;
 		valores = hora.split("\\:");
 		hor = Integer.parseInt(valores[0]);
 		minuto = Integer.parseInt(valores[1]);
@@ -68,7 +68,7 @@ public class UtilidadesFechaHora {
 		nuevaFechaHora.put("dia", dia);
 		nuevaFechaHora.put("mes", mes);
 		nuevaFechaHora.put("anio", anio);
-		nuevaFechaHora.put("hora", hor);
+		nuevaFechaHora.put("hora", hore);
 		nuevaFechaHora.put("minuto", minuto);
 		FechaHora fechaHora = new FechaHora(nuevaFechaHora);
 		return fechaHora;
